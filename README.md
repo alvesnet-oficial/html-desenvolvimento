@@ -17,3 +17,5 @@ Instale os seguintes plugins
 5. vscode-icons: icones para falicitar entender o projeto.
 
 
+
+
