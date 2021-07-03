@@ -16,6 +16,27 @@ Instale os seguintes plugins
 
 5. vscode-icons: icones para falicitar entender o projeto.
 
+# 1. Sua base:
+
+Aulade-icons
+
+
+
+# Sua primeira Tag
+
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+* No site da mozila tem muitas explicações sobre como usar as tags HTML. A bse para entender como criar aplicações web. HTML é forma de comunicação entre a nossa pagina e o navegador.
+
+
+
+
+
+
+
+
+
+
 
 
 
