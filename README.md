@@ -18,7 +18,6 @@ Instale os seguintes plugins
 
 # 1. Sua base:
 
-Aulade-icons
 
 
 
