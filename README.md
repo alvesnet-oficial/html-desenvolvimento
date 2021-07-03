@@ -28,6 +28,10 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML
 * No site da mozila tem muitas explicações sobre como usar as tags HTML. A bse para entender como criar aplicações web. HTML é forma de comunicação entre a nossa pagina e o navegador.
 
 <p align="center">
-    <img src="/criado-pagina-html/aula-02/sua-primeria-tag.jpeg" width="724" height="324">
+    <img src="/criado-pagina-html/aula-02/sua-primeria-tag-01.jpeg" width="724" height="324">
+</p>
+
+<p align="center">
+    <img src="/criado-pagina-html/aula-02/sua-primeria-tag-02.jpeg" width="724" height="324">
 </p>
 
