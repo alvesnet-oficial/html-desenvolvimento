@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elementos de Formulário</title>
+</head>
+<body>
+    <!--action="servidor.php, js, html": Criar um botão com ação de enviar os dados para um servidor-->
+    <!--method="GET": Enviar as informações pela nossa url que não seja tão sigilosa-->
+    <!--method="POST": Criar um botão com ação de enviar os dados-->
+    <form action="servidor.php" method="POST">
+        <fieldset>
+            <legend>Cadastro de usuário</legend>
+
+            <p>
+                <!--required: Obrigatorio Preencher os campos-->
+                <label for="username">usuário</label>
+                <input type="text" id="username" name="username" required>
+            </p>
+
+            <p>
+                
+                <label for="email">Email</label>
+                <input type="email" id="email" name="email">
+            </p>
+
+            <p>
+                <!--type="password": Oculta os caracteres da senha digitados-->
+                <label for="password">Senha</label>
+                <input type="text" id="password" name="password">
+            </p>
+
+            <p>
+                 <!--name="sex": Permite selecionar qual o sexo-->
+                Sexo:
+                <input type="radio" id="male" name="sex">
+                <label for="password">Masculino</label>
+
+                <input type="radio" id="female" name="sex">
+                <label for="password">Feminino</label>
+            </p>
+
+            <p>
+                 <!--type=number: Somente aceita caracteres numero-->
+                <label for="age">Idade</label>
+                <input type="number" id="age" name="age">
+            </p>
+
+            <p>
+                <!--type="submit": Criar um botão com ação de enviar os dados-->
+                <!--type="reset": Limpa os dados digitados-->
+                <button type="submit">ENVIAR</button>
+                <button type="reset">APAGAR</button>
+            </p>
+        </fieldset>
+    </form>
+</body>
+</html>
