@@ -18,7 +18,7 @@ Instale os seguintes plugins
 
 # 1. Sua base:
 
-O HTML é a base de qualquer website ou aplicação WEB hoje, e aqui você vai aprender HTML enquanto cria páginas do mundo real.
+
 
 
 # Sua primeira Tag
@@ -28,11 +28,11 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML
 * No site da mozila tem muitas explicações sobre como usar as tags HTML. A bse para entender como criar aplicações web. HTML é forma de comunicação entre a nossa pagina e o navegador.
 
 <p align="center">
-    <img src="/criado-pagina-html/aula-02/sua-primeria-tag-01.jpeg" width="724" height="324">
+    <img src="/criado-pagina-html/modulo 01/aula-02/sua-primeria-tag-01.jpeg" width="724" height="324">
 </p>
 
 <p align="center">
-    <img src="/criado-pagina-html/aula-02/sua-primeria-tag-02.jpeg" width="724" height="324">
+    <img src="/criado-pagina-html/modulo 01/aula-02/sua-primeria-tag-02.jpeg" width="724" height="324">
 </p>
 
 # Comentarios e Hierarquia
@@ -156,57 +156,8 @@ Instale o seguinte Plugin no seu VSCode
 
 - Prettier Code Formatter
 
-# O segredo é treinar
-
-https://webflow.com/blog/html5-semantic-and-webflow-the-essential-guide
-
-# Estilizando páginas com CSS
-
-Aqui você aprenderá a customizar os elementos dos seus projetos WEB usando o CSS. Crie interfaces responsivas e dê vida aos elementos com animações!
-
-# 1 - Conhecendo o CSS
-# A internet com e sem CSS - aula 00
-
-sites de exemplos:
-
-netflix
-
-HTML vs CSS
-
-# Estrutura básica do CSS - aula 01
 
 
-# Principais seletores - aula 02
-
-#title{} : aplica o CSS que definiu de acordo com id="title".
-
-*{} : Desativar qualquer e estilização e definir a que voce colocou entre {}
-
-h1 {}: aplica o CSS na tag HTML 
-
-# Hierarquia e especificidade - aula 03
-
-# Box model
-
-# Estilização de Páginas - Modulo 02
-
-8 aulas
-
-# Reset CSS profissional
-
-Dica:
-
-DavidWell/reset.css
-
-https://gist.github.com/DavidWells/18e73022e723037a50d6
-
-# Layouts com o Flexbox (parte 1 e 2) - aula 09
-
-# Pseudo classes - aula 10
-
-# Transitions - aula 11
-
-# Começando com Styled Guides e Figma
 
 ..
 
