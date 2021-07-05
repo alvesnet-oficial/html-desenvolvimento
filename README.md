@@ -2,6 +2,12 @@
 
 # Ambiente Dev: preparando o seu computador
 
+# 1. Sua base
+
+
+
+# O que é necessário
+
 - Google Chrome
 
 - Edge
@@ -15,8 +21,6 @@ Instale os seguintes plugins
 3. Bracket Pair Colorizer 2: Faz a junção dos parentes, chaves e colchetes
 
 5. vscode-icons: icones para falicitar entender o projeto.
-
-# 1. Sua base:
 
 
 
