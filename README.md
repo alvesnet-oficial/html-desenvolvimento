@@ -69,8 +69,8 @@ Comentario:
 
 # Estruturas HEAD e BODY (title) - aula 04
 
-```diff
-- TAGS:
+`````diff
+<h1>TAGS:</h1>
 
 DOCTYPE html:  Informação para navegdaor que é um arquivo HTML -->
 
