@@ -1,0 +1,17 @@
+.pai {
+    width: 100vw;
+    height: 100px;
+    background-color: orangered;    
+}
+
+.filho {
+    width: 100px;
+    height: 100px;
+    background-color: #fff;   
+}
+
+.pai:hover .filho {
+    transform: translateX(461%);
+    /*background-color: black;*/
+    
+}

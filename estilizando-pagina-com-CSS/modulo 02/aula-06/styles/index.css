@@ -1,0 +1,4 @@
+/* Responsavel por importar todos os arquivos CSS */
+
+@import url("header.css");
+@import url("main.css");

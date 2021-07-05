@@ -1,0 +1,9 @@
+.btn {
+    background: orangered;
+    border: none;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 0;
+    max-width: max-content;
+    height: 38px;
+}
