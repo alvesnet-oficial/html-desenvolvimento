@@ -67,9 +67,10 @@ Comentario:
 
     Facilita na hora de fazer uma captura de valor, ou gerenciar esses elementos por CSS.
 
-# Estruturas HEAD e BODY (title)
+# Estruturas HEAD e BODY (title) - aula 04
 
-# TAGS:
+```diff
+- TAGS:
 
 DOCTYPE html:  Informação para navegdaor que é um arquivo HTML -->
 
