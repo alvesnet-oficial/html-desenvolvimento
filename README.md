@@ -50,7 +50,7 @@ Comentario:
     
     Exemplo:
     
-    <!--tudo que eu escrever dentro dessa sera oculto da pagina html-->
+    <!--tudo que eu escrever dentro dessa tag sera oculto da pagina html-->
 
     Dicas: 
     
@@ -65,7 +65,7 @@ Comentario:
 
     Exemplo:
 
-    Facilita na hora de fazer er uma 
+    Facilita na hora de fazer uma captura de valor, ou gerenciar esses elementos por CSS.
 
 # Estruturas HEAD e BODY (title)
 
