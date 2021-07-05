@@ -71,7 +71,7 @@ Comentario:
 
 <h2>TAGS:</h2>
 
-DOCTYPE html:  Informação para navegdaor que é um arquivo HTML -->
+<h2 style="color:Tomato;">DOCTYPE html:</h2>  Informação para navegdaor que é um arquivo HTML -->
 
 html lang="pt-br": Elemento PAI
 
