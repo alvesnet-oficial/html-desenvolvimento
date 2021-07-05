@@ -6,7 +6,7 @@
 
 
 
-# O que é necessário
+# O que é necessário - aula 00
 
 - Google Chrome
 
@@ -22,10 +22,11 @@ Instale os seguintes plugins
 
 5. vscode-icons: icones para falicitar entender o projeto.
 
+# Lendo o código fonte de páginas - aula 01
 
 
 
-# Sua primeira Tag
+# Sua primeira Tag - aula 02
 
 https://developer.mozilla.org/pt-BR/docs/Web/HTML
 
@@ -39,9 +40,13 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML
     <img src="/criado-pagina-html/modulo 01/aula-02/sua-primeria-tag-02.jpeg" width="724" height="324">
 </p>
 
-# Comentarios e Hierarquia
+# Comentarios e Hierarquia - aula 03
 
-# Comentario:
+Exemplo de comentario: <!-- Tudo que eu escrever dentro desta tag-->
+
+Não será encontrado na pagina. Mas consegue inspecionar elementos pelo Navegador e ver esses comentários.
+
+Comentario:
     
     Exemplo:
     
@@ -52,7 +57,7 @@ https://developer.mozilla.org/pt-BR/docs/Web/HTML
     Cltr+K+C  : Comenta seu codigo html
     Cltr+K+U  : Descomenta seu codigo html
 
- # Hierarquia:
+ Hierarquia:
 
  Relacao pai e filho...
  importante para referencia alguns valor...

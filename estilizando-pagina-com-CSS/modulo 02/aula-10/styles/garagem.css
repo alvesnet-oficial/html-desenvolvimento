@@ -6,6 +6,6 @@ h1 {
 /* hover quando o cursor passar por h1 ele muda de cor */
 
 h1:hover {
-    color: blue;   
+    colo: red;   
  
 }
