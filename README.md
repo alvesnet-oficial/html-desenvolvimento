@@ -5,7 +5,6 @@
 # 1. Sua base
 
 
-
 # O que é necessário - aula 00
 
 - Google Chrome
@@ -69,9 +68,9 @@ Comentario:
 
 # Estruturas HEAD e BODY (title) - aula 04
 
-<h2>TAGS:</h2>
+TAGS:
 
-<h2 style="color:Tomato;">DOCTYPE html:</h2>  Informação para navegdaor que é um arquivo HTML -->
+DOCTYPE html: Informação para navegdaor que é um arquivo HTML
 
 html lang="pt-br": Elemento PAI
 
@@ -80,7 +79,6 @@ head: Elemento não visual para o cliente final
 meta: Informa alugumas caracteristica da pagina para o navegador
 
 title: Titulo da sua pagina visualizamos na barra de titulo do navegador.
-
 
 body: São elemento visual como paragrafo, imagem, video etc...
 
