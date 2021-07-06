@@ -159,7 +159,7 @@ form: Elemento que criar um formulario.
 
 form action="" method"GET": Enviar os dados atraves da url porem não seguro, e quando voce não tem ações sigilosa. Pois as informações fica exposta na url.
 
-form action="enviar.php" method"POST": Enviar os dados atraves de um outro arquivo ex: enviar.php. Pode ser um outro  formato *.php, *.hmtl, *.js etc. Assim os dados fica camuflado.
+form action="enviar.php" method"POST": Enviar os dados atraves de um outro arquivo ex: enviar.php. Pode ser um outro  formato *.php, *.hmtl, *.js etc. Assim os dados fica camuflado e são enviados para o servidor.
 
 fieldset: Cria um conjunto de campos.
 
