@@ -162,12 +162,22 @@ legend: Cria uma legenda para seu formluario.
 label for="": Sera relacionado ao 'id' de um determinado input. Existe alguns valores que podemos alterar.
 
 input type="text": Cria um campo para digitar qualquer caracter.
+
 Ex:   type="radio": Permite voce selecionar as opções no formulario.
+
       type="username": Nome do Usuario
+
       type="password": Senha será oculta ao digitar
+
       type="text": Aceita qualquer tipo de caracter.
+
       type="number": Somente aceita caracteres numericos.
+
       type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
+
+      type="submit": Envia os valores digitado para uma
+
+      type="reset": Apaga os valores digitado no formulario
 
 <p align="center">
     <img src="https://github.com/alvesnet-suporte/html-desenvolvimento/blob/main/criado-pagina-html/modulo%2002/aula-09/cadastro-de-usuarios.PNG" width="724" height="324">
