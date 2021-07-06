@@ -2,7 +2,11 @@
 
 # Ambiente Dev: preparando o seu computador
 
-# 1. Sua base
+# Criando paginas HTML
+
+O HTML é a base de qualquer website ou aplicação WEB hoje, e aqui você vai aprender HTML enquanto cria páginas do mundo real.
+
+# Modulo 01 - Sua base
 
 
 # O que é necessário - aula 00
@@ -22,8 +26,6 @@ Instale os seguintes plugins
 5. vscode-icons: icones para falicitar entender o projeto.
 
 # Lendo o código fonte de páginas - aula 01
-
-
 
 # Sua primeira Tag - aula 02
 
@@ -92,13 +94,31 @@ Alt+Z : Faz uma quebra de linha no seu codigo dentro do VISUAL CODE.
 
 # Elemento Texto:
 
+Lorem+10 : Coloca o paragrafo com 10 palavras e assim por diante...
+
+ALT+Z: Quebra as linhas do seu codigo mas não interfere no seu codigo
+
+s: Reideriza um texto tachado. Porem não quebra a linha.
+
+br: Break faz a quebra a linha.
+
+u: Sumblina o texto.
+
+b: Deixa o texto em BOLD (negrito)
+
+strong: Apesar de aparentemente não ter diferença da tag 'b' na documentação porem semanticamente o uso dela é para usar em texto muito forte 'importante'.
+
+i: Deixa o texto em italico.
+
+address: Especificar endereço apesar de ter o mesmo formato do italico mas semanticamente essa é a forma correta de estilizar.
+
 Lembre-se que mesmo o HTML possuir tags que aparentemente mostra a mesma formatação, precisamos entender que existe uma semantica por traz do html.
 
-# Hiperlinks e Atributos:
+# Hiperlinks e Atributos - aula 05
 
-a href="" : 
+a href="" : Faz uma ligação com outra pagina.
 
-* Faz uma ligação com outra pagina.
+
 
 # Imagens:
 
