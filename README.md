@@ -92,7 +92,7 @@ Dica:
 
 Alt+Z : Faz uma quebra de linha no seu codigo dentro do VISUAL CODE.
 
-# Elemento Texto:
+# Elemento Texto - aula 05
 
 Lorem+10 : Coloca o paragrafo com 10 palavras e assim por diante...
 
@@ -114,12 +114,17 @@ address: Especificar endereço apesar de ter o mesmo formato do italico mas sema
 
 Lembre-se que mesmo o HTML possuir tags que aparentemente mostra a mesma formatação, precisamos entender que existe uma semantica por traz do html.
 
-# Hiperlinks e Atributos - aula 05
+# Hiperlinks e Atributos - aula 06
 
-a href="" : Faz uma ligação com outra pagina.
+a href="http://site.x.x": Faz uma ligação com outra pagina.
 
+a href="pagina.html: Faz uma ligação com outra pagina.
 
+a href="#": Não direciona para nenhuma pagina.
 
+a href="http://site.x.x" target="_blank": Faz uma ligação com outra pagina. E abre uma pagina nova.
+
+a href="mailto:email@x.x.x": Abre seu aplicativo de email.
 # Imagens:
 
  img src="" alt="" width="" height=""
