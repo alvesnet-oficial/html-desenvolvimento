@@ -191,13 +191,18 @@ required: Quando ele estiver no final do seu input ele vai obrigar que o campo s
     <img src="https://github.com/alvesnet-suporte/html-desenvolvimento/blob/main/criado-pagina-html/modulo%2002/aula-09/cadastro-de-usuarios.PNG" width="724" height="324">
 </p>
 
-# Elementos de Tabela
+# Elementos de Tabela - aula 10
 
 Como criar tabela, Colunas e Linhas
 
-# Meta Tags
+table: Cria uma tabela.
 
-title: Titulo do navegador
+tr: Cria uma linha.
+
+td: Cria um coluna.
+# Meta Tags - aula 11
+
+title: Titulo do documento que sera mostrado na Aba do navegador.
 
 style: Interpretador de codigos CSS. Normalmente não se usa essa tag style em projetos.
 
