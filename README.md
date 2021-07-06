@@ -170,7 +170,7 @@ Ex:   type="radio": Permite voce selecionar as opções no formulario.
       type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
 
 <p align="center">
-    <img src="/criado-pagina-html/modulo 02/aula-09/cadastro-de-usuarios.png" width="724" height="324">
+    <img src="https://github.com/alvesnet-suporte/html-desenvolvimento/blob/main/criado-pagina-html/modulo%2002/aula-09/cadastro-de-usuarios.PNG" width="724" height="324">
 </p>
 
 # Elementos de Tabela
