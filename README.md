@@ -153,7 +153,13 @@ ol: Lista ordenada, ele coloca um numero em cada item. (1 ate o infinito)
 
 É umas das aulas mais usada em toda carreira de um desenvolvedor.
 
+Ex:
+
 form: Elemento que criar um formulario.
+
+form action="" method"GET": Enviar os dados atraves da url porem não seguro, e quando voce não tem ações sigilosa. Pois as informações fica exposta na url.
+
+form action="enviar.php" method"POST": Enviar os dados atraves de um outro arquivo ex: enviar.php. Pode ser um outro  formato *.php, *.hmtl, *.js etc. Assim os dados fica camuflado.
 
 fieldset: Cria um conjunto de campos.
 
@@ -163,23 +169,23 @@ label for="": Sera relacionado ao 'id' de um determinado input. Existe alguns va
 
 input type="text": Cria um campo para digitar qualquer caracter.
 
-Ex:   type="radio": Permite voce selecionar as opções no formulario.
+type="radio": Permite voce selecionar as opções no formulario.
 
-      type="username": Nome do Usuario
+type="username": Nome do Usuario
 
-      type="password": Senha será oculta ao digitar
+type="password": Senha será oculta ao digitar
 
-      type="text": Aceita qualquer tipo de caracter.
+type="text": Aceita qualquer tipo de caracter.
 
-      type="number": Somente aceita caracteres numericos.
+type="number": Somente aceita caracteres numericos.
 
-      type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
+type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
 
-      type="submit": Envia os valores digitado e executa uma ação.
+type="submit": Envia os valores digitado e executa uma ação.
 
-      type="reset": Apaga os valores digitado no formulario
+type="reset": Apaga os valores digitado no formulario
 
-      required: Quando ele estiver no final do seu input ele vai obrigar que o campo seja digitado.
+required: Quando ele estiver no final do seu input ele vai obrigar que o campo seja digitado.
 
 <p align="center">
     <img src="https://github.com/alvesnet-suporte/html-desenvolvimento/blob/main/criado-pagina-html/modulo%2002/aula-09/cadastro-de-usuarios.PNG" width="724" height="324">
