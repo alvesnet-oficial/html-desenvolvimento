@@ -175,9 +175,11 @@ Ex:   type="radio": Permite voce selecionar as opções no formulario.
 
       type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
 
-      type="submit": Envia os valores digitado para uma
+      type="submit": Envia os valores digitado e executa uma ação.
 
       type="reset": Apaga os valores digitado no formulario
+
+      required: Quando ele estiver no final do seu input ele vai obrigar que o campo seja digitado.
 
 <p align="center">
     <img src="https://github.com/alvesnet-suporte/html-desenvolvimento/blob/main/criado-pagina-html/modulo%2002/aula-09/cadastro-de-usuarios.PNG" width="724" height="324">
