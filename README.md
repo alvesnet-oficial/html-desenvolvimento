@@ -149,9 +149,25 @@ li: adiciona itens nessa lista.
 
 ol: Lista ordenada, ele coloca um numero em cada item. (1 ate o infinito)
 
-# Elementos de Formulário
+# Elementos de Formulário - 09
 
-É umas das aulas mais usada..
+É umas das aulas mais usada em toda carreira de um desenvolvedor.
+
+form: Elemento que criar um formulario.
+
+fieldset: Cria um conjunto de campos.
+
+legend: Cria uma legenda para seu formluario.
+
+label for="": Sera relacionado ao 'id' de um determinado input. Existe alguns valores que podemos alterar.
+
+input type="text": Cria um campo para digitar qualquer caracter.
+Ex:   type="radio": Permite voce selecionar as opções no formulario.
+      type="username": Nome do Usuario
+      type="password": Senha será oculta ao digitar
+      type="text": Aceita qualquer tipo de caracter.
+      type="number": Somente aceita caracteres numericos.
+      type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
 
 # Elementos de Tabela
 
