@@ -141,8 +141,13 @@ a href="mailto:email@x.x.x": Abre seu aplicativo de email.
  
  * Ela não recebe um paramentro de texto como as tags ateriores que aprendemos ate aqui.
 
-# Listas ordenadas e não ordenadas
+# Listas ordenadas e não ordenadas - aula 08
 
+ul: Lista não ordenada, ele coloca um bolinha em cada item.
+
+li: adiciona itens nessa lista.
+
+ol: Lista ordenada, ele coloca um numero em cada item. (1 ate o infinito)
 
 # Elementos de Formulário
 
