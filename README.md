@@ -125,9 +125,19 @@ a href="#": Não direciona para nenhuma pagina.
 a href="http://site.x.x" target="_blank": Faz uma ligação com outra pagina. E abre uma pagina nova.
 
 a href="mailto:email@x.x.x": Abre seu aplicativo de email.
-# Imagens:
+# Imagens - aula 07
 
- img src="" alt="" width="" height=""
+ img src="imagen.jpg" alt="" width="300" height=""
+
+ img src="public/imagen.jpg" alt="Backgroud da Empresa X" width="300" height="200"
+
+ src: Referente onde a imagem está localizada.
+ 
+ alt: É um texto alternativo caso sua imagem não seja exibida na tela.
+ 
+ width: Atributos que especifica o tamanho da imagem
+ 
+ height: É opcional caso voce precise alterar a altura.
  
  * Ela não recebe um paramentro de texto como as tags ateriores que aprendemos ate aqui.
 
