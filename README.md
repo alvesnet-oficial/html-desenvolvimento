@@ -169,6 +169,10 @@ Ex:   type="radio": Permite voce selecionar as opções no formulario.
       type="number": Somente aceita caracteres numericos.
       type="email": Somente aceita valor nesse campo se for no formato de e-mail x@x.x.x
 
+<p align="center">
+    <img src="/criado-pagina-html/modulo 01/aula-09/cadastro-de-usuarios.PNG" width="724" height="324">
+</p>
+
 # Elementos de Tabela
 
 Como criar tabela, Colunas e Linhas
