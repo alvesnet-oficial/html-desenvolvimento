@@ -213,10 +213,15 @@ link: Normalmente se um essa opção para estilização de codigo CSS.
     rel="shortcut icon" href="favicon.ico" type="imagem/x-icon": Publica uma imagem favicon na barra de titulo do seu navegador.
 
 
-Dica: Criar uma imagem para favicon
+Criador de favicon:
+
 https://www.favicon-generator.org/
 
 https://www.flaticon.com/
+
+Seletor de Cores:
+
+https://color.adobe.com/pt/create/color-wheel
 
 meta: Elemento para definir conjunto de caracter, e informações da sua pagina para os mecanismo de busca.
 
