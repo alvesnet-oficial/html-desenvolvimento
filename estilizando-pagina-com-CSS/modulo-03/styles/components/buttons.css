@@ -1,0 +1,40 @@
+.btn-medium {
+    width: 77px;
+    height: 39px;
+    background: #d81f26 ;
+    border-radius: 2px;
+    color: #fff;
+    border: none;
+
+    /* Font styles */
+    font-style: normal ;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.btn-larger {
+    width: 184px;
+    height: 39px;
+    background: #d81f26;
+    border-radius: 2px;
+    color: #fff;
+    border: none ;
+
+    /* Font styles */
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.btn-larger img {
+    width: 8.75;
+    height: 26.25px;
+    margin-left: 5px;    
+}
+
+.btn-larger:hover,
+.btn-larger:hover { 
+    background: blue;
+}

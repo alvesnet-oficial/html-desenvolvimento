@@ -1,0 +1,25 @@
+.txt-group {
+  position: relative;
+}
+
+.txt-group input {
+  width: 425px;
+  height: 60px;
+
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.88);
+  box-sizing: border-box;
+
+  /* font styles */
+
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.txt-group label {
+  position: absolute;
+  left: 16px;
+  top: 19px;
+}

@@ -1,0 +1,56 @@
+.select-group {
+    position: relative;
+    display: inline-block;
+}
+
+.select-group select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    
+    
+    width: 118px;
+    height: 36px;
+
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 2px;
+    background: transparent;
+    color: #fff;
+
+    /* font styles */
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+
+    text-align-last: center;    
+}
+
+.select-group select option {
+    color: #000;
+}
+
+.select-group img {
+    position: absolute;
+    
+}
+
+.select-group img.globo {
+    width: 12px;
+    height: 12px;
+    top: 12px;
+    left: 9px;
+
+}
+
+.select-group img.arrow {
+    width: 12px;
+    height: 12px;
+    top: 12px;
+    right: 9px;
+}
+
+.select-group select:focus {
+    outline: 1px solid rgb(0, 60, 255);
+}
